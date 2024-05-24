@@ -1,0 +1,8 @@
+# my.cnf
+[client]
+host = /opt/bitnami/mariadb/tmp/mysql.sock
+database = project
+user = root
+password = uOWU6WHi1zH,
+default-character-set = utf8
+
